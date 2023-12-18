@@ -1,0 +1,9 @@
+# Ignorar archivos temporales y de compilación
+*.log
+*.tmp
+*.out
+/build/
+
+# Ignorar archivos y directorios específicos
+config.ini
+/node_modules/
